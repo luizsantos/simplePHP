@@ -1,1 +1,1 @@
-# simplePHP
+# Utilizado nas aulas como exemplo
